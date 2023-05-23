@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav"
+    app:startDestination="@id/registrFragment">
+
+    <fragment
+        android:id="@+id/registrFragment"
+        android:name="uz.gita.minichat.presentation.fragment.registr.RegistrFragment"
+        android:label="RegistrFragment" />
+
+
+
+</navigation>

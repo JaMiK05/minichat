@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702445186135",
+    "firebase_url": "https://mini-chat-fc5a3-default-rtdb.firebaseio.com",
+    "project_id": "mini-chat-fc5a3",
+    "storage_bucket": "mini-chat-fc5a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702445186135:android:08d79facfa06c007770712",
+        "android_client_info": {
+          "package_name": "uz.gita.minichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702445186135-plo4dneck93rld78r76fnup3l9d4mp16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTaaptXks0YsuYws5lGUSlbyXQoAUT8Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702445186135-plo4dneck93rld78r76fnup3l9d4mp16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
